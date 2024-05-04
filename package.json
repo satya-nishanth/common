@@ -15,6 +15,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "private": false,
   "devDependencies": {
     "del-cli": "^5.0.0",
     "typescript": "^5.0.4"
